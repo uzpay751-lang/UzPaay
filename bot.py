@@ -3,9 +3,9 @@
 import html, sqlite3, threading, time, requests, telebot
 from telebot import types
 
-TOKEN = "ТОКЕН_ОТ_BOTFATHER"
-ADMIN_ID = 123456789                      # ваш числовой ID (узнать у @userinfobot)
-SHOP_URL = "https://ВАША-ССЫЛКА.netlify.app"
+TOKEN = "8876134883:AAEY_8oHwqOfdZJobzjZaMxNb2eKVvjLFk8"
+ADMIN_ID = 8836465969                    # ваш числовой ID (узнать у @userinfobot)
+SHOP_URL = "https://uzpay751-lang.github.io/UzPaay/"
 SUPPORT = "https://t.me/ygbag"
 CARD, CARD_NAME = "5614 6828 7736 3459", "R.B"
 RATE = 195                                # сум за 1 ★
