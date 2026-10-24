@@ -5,7 +5,7 @@ Install:
     pip install "psycopg[binary,pool]"
 
 Set these environment variables in your HOSTING PROVIDER (not in GitHub code):
-    DATABASE_URL=postgresql://USER:PASSWORD@HOST:PORT/DATABASE
+    DATABASE_URL=postgresql://u6552_b7fuieyr:JzGvGfkaSyoYqQr4UBN6aCT2kuyUIvR7@87.106.101.66:6432/uzpay_bi6nzs
 
 Then use:
     from database import init_db, get_connection
