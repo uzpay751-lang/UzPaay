@@ -16,9 +16,9 @@ from pydantic import BaseModel
 
 load_dotenv()
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-ADMIN_KEY = os.environ["ADMIN_KEY"]
-DATABASE_URL = os.environ["DATABASE_URL"]
+BOT_TOKEN = os.environ["8876134883:AAEY_8oHwqOfdZJobzjZaMxNb2eKVvjLFk8"]
+ADMIN_KEY = os.environ["201354321BR"]
+DATABASE_URL = os.environ["postgresql://u6552_b7fuieyr:JzGvGfkaSyoYqQr4UBN6aCT2kuyUIvR7@87.106.101.66:6432/uzpay_bi6nzs"]
 ALLOWED_ORIGIN = os.getenv("ALLOWED_ORIGIN", "https://uzpay751-lang.github.io")
 
 # Цены хранятся ТОЛЬКО на сервере. Измени под себя (сумма в сумах).
